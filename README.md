@@ -1,4 +1,4 @@
-# react-native-learing
+# react-native-learning
 
 # 1. React 相关
 
