@@ -8,6 +8,7 @@
 ### 1.2. Flux
 
 ### 1.3. Redux
+[Redux 文档](http://redux.js.org/docs/introduction/index.html)
 
 ### 1.4. React 插件
 
